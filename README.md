@@ -12,9 +12,9 @@
 ## Links
 
 * https://www.pygame.org
-* http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf  
+* http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf
 
-
+## Game Icon
 
 ![Logo](https://openclipart.org/download/289597/Battleship-2.svg "Game Logo")
 
