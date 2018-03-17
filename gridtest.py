@@ -8,10 +8,9 @@ grid = [[0 for i in range(10)] for i in range(10)]
 
 # Set width and height for screen, lower height by 100 to account for dock
 # Current laptop 1280 by 800, 700 to account for dock size
-# Width, height= py.display.Info().current_w, py.display.Info().current_h - 96
 
-width= 1280
-height= 700
+width, height = py.display.Info().current_w, py.display.Info().current_h - 96
+
 
 win = z.GraphWin("Board", width, height, False)
 
