@@ -12,8 +12,7 @@
 ## Links
 
 * https://www.pygame.org
-* http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf
-
+* http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf \\
 
 
 
