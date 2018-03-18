@@ -10,12 +10,12 @@
 
 ## Libraries Used
 
-* [Pygame]: https://www.pygame.org
-* [Zellegraphics]: http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf
+* [Pygame](https://www.pygame.org)
+* [Zellegraphics](http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf)
 
 ## Requirements
 
-* Python - [Download]: (https://www.python.org/download)
+* [Python 3.6+](https://www.python.org/download)
 * Pygame - Run setup.py file inside download
 
 ## Icon
