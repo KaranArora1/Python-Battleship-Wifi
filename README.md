@@ -16,7 +16,7 @@
 ## Requirements
 
 * [Python 3.6+](https://www.python.org/download)
-* Pygame - Run setup.py file inside download
+* Pygame - Run setup.py file included in download
 
 ## Icon
 
