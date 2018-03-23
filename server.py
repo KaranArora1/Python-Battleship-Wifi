@@ -1,10 +1,7 @@
 
-import socket # Import socket module
-import sys
+import pbattleship as pbat
 
-print(socket.gethostbyname(socket.gethostname()))
-
-s = socket.socket()         # Create a socket object
+'''s = socket.socket()         # Create a socket object
 
 port = 3000                # Reserve a port for your service.
 s.bind(('', port))        # Bind to the port
@@ -22,7 +19,23 @@ while True:
    message= c.recv(1024)
    print(message.decode('utf-8'))
    
-   c.close()                # Close the connection
+   c.close()                # Close the connection'''
+
+server = pbat.Server()
+server.listen(1)
+print(server.gethostname())
+
+while True:
+
+   print(server.receive())
+   m = input("?")
+
+   server.send(m)
+
+
+
+
+
 
 
 
